@@ -1,0 +1,31 @@
+{
+  "name": "front-master",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "bootstrap": "^5.1.3",
+    "chart.js": "^3.6.2",
+    "chartjs": "^0.3.24",
+    "chartjs-plugin-datalabels": "^2.0.0",
+    "d3": "^7.2.1",
+    "isomorphic-unfetch": "^3.1.0",
+    "next": "^11.1.3",
+    "react": "^17.0.2",
+    "react-bootstrap": "^1.6.4",
+    "react-chartjs-2": "^3.0.5",
+    "react-dom": "^17.0.2",
+    "react-faux-dom": "^4.5.0",
+    "react-vis": "^1.11.7",
+    "reactstrap": "^8.10.0",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "devDependencies": {
+    "inline-scripts": "^1.7.4"
+  }
+}
